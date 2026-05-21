@@ -19,4 +19,5 @@ Link da PEP08: https://peps.python.org/pep-0008/
 Lista de status code: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 Link site oficial JWT(Json Web Token): https://jwt.io/
 Documentação SimpleJWT: https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html
+Dissertação REST de Roy Fielding: https://ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf
 -------------------------------------
