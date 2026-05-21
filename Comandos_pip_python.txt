@@ -1,0 +1,22 @@
+python -m venv ven
+windowns:
+.\venv\Scripts\activate
+pip install django
+pip install djangorestframework
+django-admin startproject app .
+python manage.py runserver
+python manage.py 
+python manage.py createsuperuser
+python manage.py startapp actors
+python manage.py startapp movies
+python manage.py startapp authentication  
+python manage.py makemigrations
+python manage.py migrate 
+
+
+-------------------------------------
+Link da PEP08: https://peps.python.org/pep-0008/
+Lista de status code: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+Link site oficial JWT(Json Web Token): https://jwt.io/
+Documentação SimpleJWT: https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html
+-------------------------------------
