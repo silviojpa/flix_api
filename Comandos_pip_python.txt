@@ -20,4 +20,6 @@ Lista de status code: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 Link site oficial JWT(Json Web Token): https://jwt.io/
 Documentação SimpleJWT: https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html
 Dissertação REST de Roy Fielding: https://ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf
+Planos e preços PythonAnywhere: https://www.pythonanywhere.com/pricing/
+Guia de deploy Django: https://help.pythonanywhere.com/pages/DeployExistingDjangoProject/
 -------------------------------------
